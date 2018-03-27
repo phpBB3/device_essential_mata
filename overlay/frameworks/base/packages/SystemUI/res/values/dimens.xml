@@ -19,4 +19,5 @@
     <!-- Volume dialog vertical offset from the top of the screen -->
     <dimen name="volume_offset_top">156px</dimen>
     <dimen name="qs_corner_content_padding">6dp</dimen>
-</resources>
+    <dimen name="rounded_corner_radius">20dp</dimen>
+</resources> 
