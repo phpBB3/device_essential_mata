@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+WITH_TWRP := true
+RECOVERY_VARIANT := twrp
 DEVICE_PATH := device/essential/mata
 
 # Thermal
