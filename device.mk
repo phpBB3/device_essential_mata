@@ -443,3 +443,7 @@ PRODUCT_PACKAGES += \
 #QTIAudio
 PRODUCT_PACKAGES += \
     QtiAudio
+
+# TWRP
+PRODUCT_COPY_FILES += \
+    device/essential/mata/twrp/twrp.fstab:recovery/root/etc/twrp.fstab
